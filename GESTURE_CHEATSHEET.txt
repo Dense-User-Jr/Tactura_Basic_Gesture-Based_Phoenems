@@ -1,0 +1,26 @@
+╔══════════════════════════════════════════════════════╗
+║           GestureComm — Demo Cheat Sheet             ║
+╠══════════════════════════════════════════════════════╣
+║  1. FLICK UP      Snap wrist up sharply              ║
+║     → "Hi! My name is ___."                          ║
+║                                                      ║
+║  2. FLICK DOWN    Snap wrist down sharply            ║
+║     → "Can you help me with this?"                   ║
+║                                                      ║
+║  3. TWIST RIGHT   Rotate forearm clockwise ~90°      ║
+║     → "How are you?"                                 ║
+║                                                      ║
+║  4. TWIST LEFT    Rotate forearm counter-clockwise   ║
+║     → "Thank you so much!"                           ║
+║                                                      ║
+║  5. SHAKE         Shake wrist left-right 2–3×        ║
+║     → "Please wait a moment."                        ║
+║                                                      ║
+║  6. DOUBLE TAP    Tap watch face or screen twice     ║
+║     → "Yes, I understand."                           ║
+╠══════════════════════════════════════════════════════╣
+║  TIPS:  • Wait for haptic buzz = confirmed           ║
+║         • Cooldown: 0.9s between gestures            ║
+║         • Gestures must be deliberate (~0.5s)        ║
+║         • Double tap can be watch-face or screen tap ║
+╚══════════════════════════════════════════════════════╝
